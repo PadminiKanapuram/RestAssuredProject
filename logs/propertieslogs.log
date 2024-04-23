@@ -1,0 +1,74 @@
+[INFO ] 2024-03-20 10:47:54.140 [main] LoggerDemo - This is information message
+[INFO ] 2024-03-20 10:47:54.146 [main] LoggerDemo - Pass
+[FATAL] 2024-03-20 10:47:54.148 [main] LoggerDemo - fatal
+[ERROR] 2024-03-20 10:47:54.148 [main] LoggerDemo - Error
+[WARN ] 2024-03-20 10:47:54.148 [main] LoggerDemo - Warn
+**************User creation Started***********
+*************User creation Completed***************
+********Retrieval of user by names successfully completed **********
+********Updation of user completed **********
+********Deletion of user completed **********
+**************User creation Started***********
+*************User creation Completed***************
+**************User creation Started***********
+*************User creation Completed***************
+**************User creation Started***********
+*************User creation Completed***************
+********Retrieval of user by names successfully completed **********
+********Updation of user completed **********
+********Deletion of user completed **********
+**************User creation Started***********
+*************User creation Completed***************
+********Retrieval of user by names successfully completed **********
+********Updation of user completed **********
+********Deletion of user completed **********
+**************User creation Started***********
+*************User creation Completed***************
+**************User creation Started***********
+*************User creation Completed***************
+**************User creation Started***********
+*************User creation Completed***************
+[INFO ] 2024-03-22 01:25:31.604 [main] userTest2 - **************User creation Started***********
+[INFO ] 2024-03-22 01:25:34.440 [main] userTest2 - *************User creation Completed***************
+[INFO ] 2024-03-22 01:38:56.344 [main] userTest2 - **************User creation Started***********
+[INFO ] 2024-03-22 01:38:59.931 [main] userTest2 - *************User creation Completed***************
+[INFO ] 2024-03-22 01:39:01.211 [main] userTest2 - ********Updation of user completed **********
+[INFO ] 2024-03-22 01:40:51.796 [main] userTest2 - **************User creation Started***********
+[INFO ] 2024-03-22 01:40:55.226 [main] userTest2 - *************User creation Completed***************
+[INFO ] 2024-03-22 01:40:56.483 [main] userTest2 - ********Updation of user completed **********
+[INFO ] 2024-03-22 01:47:53.015 [main] userTest2 - **************User creation Started***********
+[INFO ] 2024-03-22 01:47:56.032 [main] userTest2 - *************User creation Completed***************
+[INFO ] 2024-03-22 01:47:56.618 [main] userTest2 - ********Retrieval of user by names completed **********
+[INFO ] 2024-03-22 01:47:57.449 [main] userTest2 - ********Updation of user completed **********
+[INFO ] 2024-03-22 01:47:57.986 [main] userTest2 - ********Deletion of user completed **********
+[INFO ] 2024-03-22 01:50:32.519 [main] userTest - **************User creation Started***********
+[INFO ] 2024-03-22 01:50:35.310 [main] userTest - *************User creation Completed***************
+[INFO ] 2024-03-22 01:50:35.759 [main] userTest - ********Retrieval of user by names successfully completed **********
+[INFO ] 2024-03-22 01:50:36.431 [main] userTest - ********Updation of user completed **********
+[INFO ] 2024-03-22 01:50:36.817 [main] userTest - ********Deletion of user completed **********
+[INFO ] 2024-03-22 01:54:16.443 [main] userTest2 - **************User creation Started***********
+[INFO ] 2024-03-22 01:54:19.236 [main] userTest2 - *************User creation Completed***************
+[INFO ] 2024-03-22 01:54:20.368 [main] userTest2 - ********Updation of user completed **********
+[INFO ] 2024-03-22 02:03:09.930 [main] userTest2 - **************User creation Started***********
+[INFO ] 2024-03-22 02:03:13.929 [main] userTest2 - *************User creation Completed***************
+[INFO ] 2024-03-22 02:03:16.135 [main] userTest2 - ********Updation of user completed **********
+[INFO ] 2024-03-22 02:07:10.349 [main] userTest2 - **************User creation Started***********
+[INFO ] 2024-03-22 02:07:13.307 [main] userTest2 - *************User creation Completed***************
+[INFO ] 2024-03-22 02:07:13.738 [main] userTest2 - ********Retrieval of user by names completed **********
+[INFO ] 2024-03-22 02:07:14.459 [main] userTest2 - ********Updation of user completed **********
+[INFO ] 2024-03-22 02:07:14.929 [main] userTest2 - ********Deletion of user completed **********
+[INFO ] 2024-03-22 02:33:56.965 [main] userTest2 - **************User creation Started***********
+[INFO ] 2024-03-22 02:33:59.841 [main] userTest2 - *************User creation Completed***************
+[INFO ] 2024-03-22 02:34:00.181 [main] userTest2 - ********Retrieval of user by names completed **********
+[INFO ] 2024-03-22 02:34:00.959 [main] userTest2 - ********Updation of user completed **********
+[INFO ] 2024-03-22 02:34:01.286 [main] userTest2 - ********Deletion of user completed **********
+[INFO ] 2024-03-22 03:02:04.019 [main] userTest2 - **************User creation Started***********
+[INFO ] 2024-03-22 03:02:07.273 [main] userTest2 - *************User creation Completed***************
+[INFO ] 2024-03-22 03:02:07.670 [main] userTest2 - ********Retrieval of user by names completed **********
+[INFO ] 2024-03-22 03:02:08.391 [main] userTest2 - ********Updation of user completed **********
+[INFO ] 2024-03-22 03:02:08.732 [main] userTest2 - ********Deletion of user completed **********
+[INFO ] 2024-04-24 00:47:42.708 [main] userTest2 - **************User creation Started***********
+[INFO ] 2024-04-24 00:47:51.605 [main] userTest2 - *************User creation Completed***************
+[INFO ] 2024-04-24 00:47:54.958 [main] userTest2 - ********Retrieval of user by names completed **********
+[INFO ] 2024-04-24 00:48:01.610 [main] userTest2 - ********Updation of user completed **********
+[INFO ] 2024-04-24 00:48:02.080 [main] userTest2 - ********Deletion of user completed **********

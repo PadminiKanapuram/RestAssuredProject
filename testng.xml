@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE suite SYSTEM "https://testng.org/testng-1.0.dtd">
+<suite name="TestSuite">
+	<listeners>
+		<listener class-name="api.utilities.ExtentReportManager" /> <!-- way to import extent report manager class-->
+	</listeners>
+  <test thread-count="5" name="UserTestModule">
+	  
+    <classes>
+      <!--<class name="api.test.userTest"/>-->
+      <class name="api.test.userTest2"/>
+<!--     <class name="api.test.DataDrivenTest"/> -->
+    </classes>
+  </test> <!-- UserTestModule -->
+</suite> <!-- TestSuite -->
